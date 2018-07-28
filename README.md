@@ -1,5 +1,5 @@
 # best<sub>comma</sub>
-Storefront built on React-create-app framework
+Storefront built on <a href="https://github.com/facebook/create-react-app">React-create-app framework</a>
 # install
 Run the following on your local machine:
 
